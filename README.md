@@ -18,5 +18,9 @@ A simple calculator web application built using HTML, CSS, and JavaScript. The c
 - `index.js:` JavaScript file containing the logic for calculator functionality.
 
 ## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
+Contributions are welcome! 
 
+### You can contribute by:
+-  Reporting bugs
+-  Suggesting new features
+-  Submitting pull requests to improve the codebase
