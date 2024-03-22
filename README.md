@@ -22,6 +22,7 @@ A simple calculator web application built using HTML, CSS, and JavaScript. The c
 - **CSS:** Styles the HTML elements, ensuring an appealing and user-friendly interface.
 - **JavaScript:** Implements the calculator's logic and functionality, enabling dynamic and interactive calculations.
 - **IDE:** Visual Studio Code
+- **Web Browser:** Google Chrome
 
 ## Contributing
 Contributions are welcome! 
